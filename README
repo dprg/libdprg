@@ -1,0 +1,14 @@
+libdprg
+DPRG Cooperative Multitasking and Subsumption Library
+ 
+Version 0.6
+
+This is a small, fast, cooperative multitasking environment and a collection 
+of commonly used C language functions for mobile robot applications. Initially
+this code targets the Mini Robomind (MRM) microcontroller but will eventually
+support additional microcontrollers. This library is based on code originally 
+developed by David P. Anderson of the Dallas Personal Robotics Group. The
+initial refactoring of the code into this stand-alone library was done by
+R. Steven Rainwater of the DPRG. Additional code and ideas have been integrated
+from other GPL'd project and contributed by various authors.
+
